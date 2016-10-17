@@ -15,7 +15,7 @@ The Minimalist Markdown Editor project is available both online as a web app, an
 ### Building
 
 1. Ensure that [Node.js](http://nodejs.org/) is installed, and open a terminal in the project's root directory.
-2. Run `npm install` to install the project's developement dependencies.
+2. Run `npm install` to install the project's development dependencies.
 3. Run `npm run build` to build the Chrome app. The builds will be placed in the `dist/` directory.
 
 Note: Building should only be necessary if you think about contributing. If you want to run one of the apps, hit one of the links above.
